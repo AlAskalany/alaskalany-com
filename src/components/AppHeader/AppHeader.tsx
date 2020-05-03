@@ -10,7 +10,7 @@ class AppHeader extends React.Component {
         <AppBar position="static" color="default">
           <Toolbar>
             <Typography variant="title" color="inherit">
-              Title
+              Ahmed AlAskalany
             </Typography>
           </Toolbar>
         </AppBar>
