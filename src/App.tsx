@@ -4,7 +4,6 @@ import * as React from "react";
 import "./App.css";
 
 import AppHeader from "./components/AppHeader/AppHeader";
-import Hello from "./components/Hello/Hello";
 
 class App extends React.Component {
   public render() {
