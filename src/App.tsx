@@ -12,9 +12,8 @@ class App extends React.Component {
       <div className="App">
         <AppHeader />
         <p className="App-intro">
-          To get started, edit <code>src/App.tsx</code> and save to reload.
+          Welcome!
         </p>
-        <Hello name="Askalany" />
       </div>
     );
   }
